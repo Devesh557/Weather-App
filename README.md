@@ -5,7 +5,7 @@ A simple weather application built using HTML, CSS, and JavaScript.
 ## Features
   Displays current weather information for a given location
 
-  Includes temperature, humidity, wind speed, and weather description
+  Includes temperature, humidity and weather description
 
   Uses OpenWeatherMap API to fetch weather data
 
@@ -34,3 +34,4 @@ This weather application is a simple example of how to use HTML, CSS, and JavaSc
 With a few lines of code, you can fetch weather data from an API and display it to the user
 
 ## live link:
+https://devesh557.github.io/Weather-App/
